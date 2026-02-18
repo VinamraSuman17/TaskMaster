@@ -209,12 +209,3 @@ Engineered a distributed task scheduling system using FastAPI, Celery, Redis, an
 👨‍💻 Author
 Built by Vinamra Suman
 Backend + Distributed Systems Project
-
-
----
-✅ JWT Auth  
-✅ Full Docker Deployment  
-
-बस bol:
-
-**Next: Retry system add karo**
